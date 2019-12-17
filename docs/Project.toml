@@ -1,2 +1,3 @@
 [deps]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+IDEDelay = "82e514b0-3f6c-45fa-b22d-a920b2bad0fe"

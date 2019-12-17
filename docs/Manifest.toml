@@ -23,6 +23,11 @@ git-tree-sha1 = "885467cebde4639a3d81953652cc53ff5a73cb87"
 uuid = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 version = "0.24.3"
 
+[[IDEDelay]]
+path = "/Users/ynakata/.julia/dev/IDEDelay"
+uuid = "82e514b0-3f6c-45fa-b22d-a920b2bad0fe"
+version = "0.1.0"
+
 [[InteractiveUtils]]
 deps = ["Markdown"]
 uuid = "b77e0a4c-d291-57a0-90e8-8db25a27a240"
